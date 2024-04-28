@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+.a{
+color: rgb(75, 174, 55);
+background-color: rgb(41, 38, 38);
+border-radius: 50px;
+width: 430px;
+height: 600px;
+margin-top: 50px;
+margin-left: 50px;
+}
+.final{
+    position: absolute;
+    top: 520px;
+    left: 120px;
+    background-color: rgb(69, 68, 68);
+    border-radius: 30px ;
+    width: 190px;
+    text-align: center;
+}
+.p{
+   position: absolute;
+   top: 320px;
+   left: 110px;
+}
+.pp{
+    position: absolute;
+    top: 320px;
+    left: 145px;
+    
+ }
+ .pp1{
+    position: absolute;
+    top: 380px;
+    left: 145px;
+    
+ }
+ .pp2{
+    position: absolute;
+    top: 440px;
+    left: 145px;
+    
+ }
+.aa{
+    color: rgb(155, 155, 155);
+}
+.bbb{
+    position: absolute;
+    top: 320px;
+    left: 140px;
+}
+.zz{
+    position: absolute;
+    top: 320px;
+    left: 180px;
+}
+.zz1{
+    position: absolute;
+    top: 380px;
+    left: 180px;
+}
+.zz2{
+    position: absolute;
+    top: 440px;
+    left: 180px;
+}
+.bb{
+    position: absolute;
+    top: 280px;
+    left: 110px;
+     font-size: large;
+    
+}
+.bbz{
+    position: absolute;
+    top: 230px;
+    left: 98px;
+     font-size: large;
+    
+}
+.s{
+    position: absolute;
+    top: 285px;
+    left: 98px;
+}
+.l{
+    position: absolute;
+    top: 270px;
+    left: 140px;
+    margin-right: 10px;
+}
+.z{
+    position: absolute;
+    top: 280px;
+    left: 150px;
+     font-size: large;
+    
+}
+.b{
+    color: rgb(75, 174, 55);
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: rgb(41, 38, 38);
+    width: 430px;
+    position: absolute;
+    left: 530px;
+    top: 25px;
+    height: 650px;
+    
+   
+    }
+    .c{
+        color:  rgb(75, 174, 55);
+    border-radius: 50px;
+    background-color: rgb(41, 38, 38);
+    width: 430px;
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+    height: 600px;
+        }
