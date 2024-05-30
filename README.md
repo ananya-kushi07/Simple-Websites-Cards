@@ -2,9 +2,6 @@
 
 This HTML code creates a simple webpage layout featuring three cards presenting different subscription plans. Each card displays pricing information, features, and a recommended tag for a specific plan.
 
-## Preview
-
-![Website Cards Preview](preview.png)
 
 ## Features
 
