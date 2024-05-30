@@ -17,4 +17,4 @@ This HTML code creates a simple webpage layout featuring three cards presenting 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/website-cards.git
+   git clone https://github.com/ananya-kushi07/Simple-Websites-Cards.git
